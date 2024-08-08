@@ -15,5 +15,6 @@ Unlock hp motherboard when u want spoof
 ```
 4. Download this file and extract it and put the files on the usb
 ```
+![image img](/1.png)
 
 # I am not responsible for the damage to your laptop, at your own risk

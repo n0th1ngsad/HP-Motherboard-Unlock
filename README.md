@@ -18,8 +18,12 @@ Unlock hp motherboard when u want spoof
 ![image img](/1.png)
 **STEP 3** </br>
 ```
-4. Extract the files and drag them on your usb drive that should look like this
+5. Extract the files and drag them on your usb drive that should look like this
 ```
 ![image img](/2.png)
+**STEP 4** </br>
+```
+6. Now restart your pc. While restarting spam key until you get in your bios (Adjust to your laptop brand so that it can enter BIOS mode on cellphones)
+```
 
 # I am not responsible for the damage to your laptop, at your own risk

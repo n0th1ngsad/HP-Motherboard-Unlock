@@ -24,6 +24,8 @@ Unlock hp motherboard when u want spoof
 **STEP 4** </br>
 ```
 6. Now restart your pc. While restarting spam key until you get in your bios (Adjust to your laptop brand so that it can enter BIOS mode on cellphones)
+7. Now you should see something like this (it may look a little bit different for you)
+8. Select "load file from EFI"
 ```
 
 # I am not responsible for the damage to your laptop, at your own risk

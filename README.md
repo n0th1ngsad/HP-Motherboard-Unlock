@@ -33,5 +33,19 @@ Unlock hp motherboard when u want spoof
 9. Now select you USB
 ```
 ![image img](/4.png)</br>
+**STEP 6** </br>
+```
+10. Now select "bootx64.efi"
+```
+![image img](/5.png)</br>
+**STEP 7** </br>
+```
+11. Now something like this will appear, press Yes.
+```
+![image img](/6.png)</br>
+**LAST STEP** </br>
+```
+12. Now it will boot into Windows again, and the USB can be removed. Incase Windows does not boot, please remove the USB, and wait.
+```
 
 # I am not responsible for the damage to your laptop, at your own risk

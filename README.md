@@ -28,5 +28,10 @@ Unlock hp motherboard when u want spoof
 8. Select "load file from EFI"
 ```
 ![image img](/3.png)</br>
+**STEP 5** </br>
+```
+9. Now select you USB
+```
+![image img](/4.png)</br>
 
 # I am not responsible for the damage to your laptop, at your own risk

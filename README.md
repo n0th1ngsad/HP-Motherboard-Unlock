@@ -27,5 +27,6 @@ Unlock hp motherboard when u want spoof
 7. Now you should see something like this (it may look a little bit different for you)
 8. Select "load file from EFI"
 ```
+![image img](/3.png)</br>
 
 # I am not responsible for the damage to your laptop, at your own risk

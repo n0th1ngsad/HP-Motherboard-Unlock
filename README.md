@@ -16,5 +16,10 @@ Unlock hp motherboard when u want spoof
 4. Download this file and extract it and put the files on the usb
 ```
 ![image img](/1.png)
+**STEP 3** </br>
+```
+4. Extract the files and drag them on your usb drive that should look like this
+```
+![image img](/2.png)
 
 # I am not responsible for the damage to your laptop, at your own risk
